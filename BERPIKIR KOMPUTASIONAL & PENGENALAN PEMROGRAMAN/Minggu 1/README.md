@@ -1,4 +1,29 @@
-# Kuis
+# Materi
+## Computational Thinking and Programming Introduction
+- Tips: CT adalah pola pikir bukan menghafal, CT harus dilatih, CT harus diimplementasikan dalam kegiatan sehari-hari.
+- Computational thinking merupakan dasar dari pemikiran dan pemahaman dunia secara algoritma untuk memecahkan permasalahan kompleks, merancang sistem, memahami perilaku manusia  yang mengacu kepada konsep dasar ilmu komputer dengan ketentuan efisien, efektif, dapat diikuti dan dipahami oleh orang lain, dan/atau dapat diimplementasikan ke dalam komputer.
+- Mengapa harus mempelajari Computational Thinking? Karena kita berada era VUCA
+  1. Volatility (V) = Tidak terduga, tidak stabil, durasi tidak diketahui.
+  2. Uncertainty (U) = Ketidakpastian akan sesuatu peristiwa, perubahan mungkin terjadi, tetapi belum tentu terjadi 
+  3. Complexity (C) = Volume informasi atau sifatnya sangat besar, banyak bagian dan variabel didalamnya
+  4. Ambiguity (A) = Ketidaktahuan atau informasi yang belum jelas.
+- Komponen dalam Computational Thinking
+  1. Decomposition = Memecah masalah yang rumit menjadi bagian-bagian yang lebih mudah dikelola dan dipahami.
+  2. Pattern Recognition = Mengidentifikasi/mengenali pola/struktur/tren yang berualng dalam informasi untuk dipergunakan sebagai solusi.
+  3. Abstraction = Menyederhanakan informasi yang kompleks dengan berfokus pada detail penting sambil mengabaikan informasi yang tidak penting atau tidak relevan.
+  4. Algorithmic Thinking = Beripikir secara logis/struktural dan mempertimbangkan urutan tindakan yang diperlukan untuk mencapai solusi.
+- Dimanakah Computational Thinking ini digunakan?
+  1. Computer Science dan Programming
+  2. Science dan Research
+  3. Mathematics
+  4. Engineering
+  5. Business dan Data Analysis
+  6. Healthcare
+  7. Education
+  8. Everyday life
+## Tower of Hanoi Concept
+
+## Kuis
 1. Algorithmic Thinking adalah …
    
    A. Mencari pola yang sama dari masalah
