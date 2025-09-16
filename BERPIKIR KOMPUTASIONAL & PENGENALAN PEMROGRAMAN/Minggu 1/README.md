@@ -22,7 +22,8 @@
   7. Education
   8. Everyday life
 ## Tower of Hanoi Concept
-
+- Tower of Hanoi adalah teka-teki matematika yang ditemukan oleh matematikawan adal Prancis pada 1883.
+- Permainan ini di mulai dengan menumpuk beberapa cakram sesuai urutan ukuran. Jumlahnya bervariasi, yang terpenting hanya dapat memindahkan satu cakram tiap waktu, serta tidak boleh meletakkan cakram besar diatas cakram kecil.
 ## Kuis
 1. Algorithmic Thinking adalah …
    
