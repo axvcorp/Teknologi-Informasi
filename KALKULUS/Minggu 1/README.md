@@ -7,7 +7,7 @@
 3. Bilangan Bulat/Integers (Z): $Z = {...,-2,-1, 0, 1, 2,...}$ 
 4. Bilangan Rasional/Rational (Perbandingan/pembagian) (Q): -1/2, 1/3, 4/9, 0.1, 0.54, ... (Tidak semua desimal adalah rasional "Bilangan yang dapat dinyatakan sebagai a/b, dimana a dan b adalah bilangan bulat dan b ≠ 0") | $Q = {\frac{m}{n} | m,n ∈ Z, n ≠ 0}$ (∈ = anggota/elemen dari)
 5. Bilangan Irasional/Irrational (Tidak dapat dibagi) (Ir): ¹⁄₂√2, √2,  3,14159265.../Bilangan π, 2,718281/euler number... (Tidak semua desimal adalah irasional "Bilangan yang tidak dapat dinyatakan sebagai pecahan a/b atau representasi decimal bersifat tak berujung dan tidak memiliki pola berulang") | $Ir = ℝ \setminus Q$ ($\setminus$ = selisih/himpunan elemen ... tanpa elemen ...)
-## Sifat-sifat Urutan Bilangan Bulat
+## Sifat-sifat Urutan Bilangan Real
 1. Trikotomi = Untuk setiap $x, y ∈ ℝ$, berlaku salah satu, $x < y$ | $x = y$ | $x > y$
 2. Transitif = Untuk setiap $x, y, z ∈ ℝ$, jika $x < y$ dan $y < z ⇒ x < z$ (⇒ = maka/mengimplikasikan)
 3. Penambahan = Untuk setiap $x, y, z ∈ ℝ$ dan $x < y ⇒ x + z < y + z$ (⇔ = jika dan hanya jika/ekuivalen)
